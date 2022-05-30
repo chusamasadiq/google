@@ -1,0 +1,80 @@
+.google
+{
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+
+.searchbar 
+{
+    padding: 40px;
+    
+}
+
+.s-input
+{
+    border: 1px solid lightgray;
+    text-align: left;
+    font-size: medium;
+    width: 600px;
+    height: 45px;
+    border-radius: 50px;
+    outline: none;
+}
+
+.Head
+{
+    margin-top: 5px;
+    position: relative;
+    margin-right: 40px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.Head-items
+{
+    text-decoration: none;
+    color:black;
+    padding: 5px;
+    
+}
+
+.button-items
+{
+    margin: 5px;
+    padding: 10px;
+    font-size: small;
+    background: rgb(248, 248, 248);
+    border: none;
+}
+
+.Logo
+{
+    margin-right: 500px;
+    width: 50px;
+}
+
+.link
+{
+    text-decoration: none;
+}
+
+.title
+{
+    margin-top: -40px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Bottomtitle
+{
+    
+    padding: 40px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.languages
+{
+    text-decoration: none;
+}
+
